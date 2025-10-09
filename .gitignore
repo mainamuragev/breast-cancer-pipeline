@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.env
+diagnostic_data.csv
