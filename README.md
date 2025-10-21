@@ -1,6 +1,4 @@
-Here’s the full polished `README.md` content for your **breast-cancer-pipeline** repo, Maina — ready to paste:
 
-```markdown
 # 🩺 Diagnosis Risk Pipeline
 
 Part of the **Breast Cancer Analytics Suite**, this Apache Airflow DAG ingests diagnosis data, applies a custom risk scoring model, and logs summary statistics for downstream analytics and public health impact.
